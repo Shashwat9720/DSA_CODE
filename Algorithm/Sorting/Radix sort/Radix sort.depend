@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627405291 source:d:\coding data\sorting\radix sort\main.cpp
+	<iostream>
+	<math.h>
+
